@@ -50,6 +50,8 @@ To delete a record, enter the ID of the record you wish to delete in the "Select
 
 The application uses an SQLite database named `data.db` to store the address records. If the database file does not exist, it will be created automatically when you run the application.
 
+## Screenshots
+![Image](https://github.com/azim-qadri/Database-App/blob/main/Screenshot%20(83).png) ![Image](https://github.com/azim-qadri/Database-App/blob/main/Screenshot%20(84).png)
 ## Contributing
 
 Contributions to this project are welcome. Feel free to submit bug reports, feature requests, or pull requests.
